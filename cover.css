@@ -24,9 +24,13 @@ a:hover {
  * Base structure
  */
 
-html,
+html{
+  position: relative;
+  min-height: 100%;
+}
 body {
   height: 100%;
+  margin-bottom: 100px;
   background-color: #333;
 }
 body {
@@ -124,7 +128,7 @@ body {
 
 
  
-.thisfoot {
+.footer {
   position: absolute;
   bottom: 0;
   width: 100%;
