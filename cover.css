@@ -60,7 +60,7 @@ body {
 /* Padding for spacing */
 .inner {
   padding: 30px;
-  background-color: #191919;
+
 }
 
 
@@ -89,7 +89,8 @@ body {
 }
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
-  background-color: transparent;
+  /*background-color: transparent;*/
+    background-color: #191919;
   border-bottom-color: #a9a9a9;
   border-bottom-color: rgba(255,255,255,.25);
 }
