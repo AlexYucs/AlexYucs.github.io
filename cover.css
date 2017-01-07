@@ -35,8 +35,8 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin-bottom: 140px;
-  bottom: 0;
+  /*margin-bottom: 140px;
+  bottom: 0;*/
 }
 body {
   color: #464646;
