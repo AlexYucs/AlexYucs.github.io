@@ -32,7 +32,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 body {
   color: #464646;
@@ -137,7 +137,7 @@ body {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 100px;
+  height: 150px;
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
   background-color: #191919;
