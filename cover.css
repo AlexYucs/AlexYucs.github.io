@@ -34,9 +34,9 @@ body {
   background-size: cover;
 }
 body {
-  color: #191919;
+  color: #464646;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(25,25,25,.5);
+  text-shadow: 0 1px 3px rgba(70,70,70,.5);
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -84,21 +84,21 @@ body {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #191919; /* IE8 proofing */
-  color: rgba(25,25,25,.75);
+  color: #464646; /* IE8 proofing */
+  color: rgba(70,70,70,.75);
   border-bottom: 2px solid transparent;
 }
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
   background-color: transparent;
-  border-bottom-color: #191919;
-  border-bottom-color: rgba(25,25,25,.25);
+  border-bottom-color: #464646;
+  border-bottom-color: rgba(70,70,70,.25);
 }
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #191919;
-  border-bottom-color: #191919;
+  color: #464646;
+  border-bottom-color: #464646;
 }
 
 @media (min-width: 768px) {
