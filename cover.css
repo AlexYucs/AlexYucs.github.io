@@ -72,7 +72,7 @@ li a:hover {
 
 html,
 body {
-  margin-top: 80px;
+  padding-top: 80px;
   position: relative;
   height: 100%;
   width : 100%;
