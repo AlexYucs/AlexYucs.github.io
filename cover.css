@@ -38,9 +38,9 @@ li {
     float: left;
 }
 li p{
-    display: block;
+    /*display: block;*/
     color: white;
-    text-align: center;
+    /*text-align: center;*/
 	font-size: 20px;
     padding: 0px 0px 0px 10px;
     text-decoration: none;
