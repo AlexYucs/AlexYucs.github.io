@@ -142,7 +142,7 @@ body {
   width: 100%;
   margin:0;
   /* Set the fixed height of the footer here */
-  height: 100px;
+  height: 60px;
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
   background-color: #191919;
