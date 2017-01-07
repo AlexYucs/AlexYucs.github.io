@@ -122,13 +122,15 @@ body {
  * Footer
  */
 
-.left{
-text-align:left;
-float:left;
+.thisfoot .left{
+    float: left;
+    width: 50%;
+    position: relative;
 }
-.right{
-float:right;
-text-align:right;
+.thisfoot .right{
+    float: left;
+    width: 50%;
+    position: relative;
 }
  
 .mastfoot {
