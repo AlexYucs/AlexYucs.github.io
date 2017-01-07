@@ -122,18 +122,9 @@ body {
  * Footer
  */
 
-.thisfoot .left{
-    float: left;
-    width: 50%;
-    position: relative;
-}
-.thisfoot .right{
-    float: left;
-    width: 50%;
-    position: relative;
-}
+
  
-.mastfoot {
+.thisfoot {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
 }
