@@ -63,9 +63,6 @@ body {
 
 }
 
-.heading{
-	background-color: #191919;
-}
 
 /*
  * Header
@@ -73,7 +70,7 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
-  
+  background-color: #191919;
 }
 
 .masthead-nav > li {
