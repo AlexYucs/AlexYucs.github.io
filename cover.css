@@ -137,13 +137,13 @@ body {
     height: 200px;
     background-color: red;*/
 	padding: 100px;
-    position: absolute;
+    /*position: absolute;
     top:0;
     bottom: 0;
     left: 0;
     right: 0;
 	
-    margin: auto;
+    margin: auto;*/
 }
 .cover .btn-lg {
   padding: 10px 20px;
