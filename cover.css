@@ -148,6 +148,8 @@ body {
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
+  border: 2px solid;
+  border-radius: 25px;
 }
 
 
