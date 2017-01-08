@@ -136,14 +136,14 @@ body {
 	width: 200px;
     height: 200px;
     
-	padding: 100px;
+	padding: 70px;
     position: absolute;
     top:0;
     bottom: 0;
     left: 0;
     right: 0;
 	
-    margin: auto;
+    margin: 0;
 }
 .cover .btn-lg {
   padding: 10px 20px;
