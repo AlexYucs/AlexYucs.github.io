@@ -177,9 +177,12 @@ body {
 
 
 .container{
-	display: inline-block;
+	display: inline-block;	
 	width: 40%;
 	padding-left: 6.666%;
+}
+.footwords{
+	padding-bottom = 20px;
 }
 /*
  * Footer
