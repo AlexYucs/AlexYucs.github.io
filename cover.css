@@ -177,6 +177,7 @@ body {
 
 
 .container{
+	display: inline-block;
 	width: 40%;
 	padding-left: 6.666%;
 }
@@ -184,7 +185,7 @@ body {
  * Footer
  */
 .thisfoot {
-	display: inline-block;
+
 	position: absolute;
 	bottom: 0;
 	width: 100%;
