@@ -184,6 +184,7 @@ body {
  * Footer
  */
 .thisfoot {
+	display: inline-block;
 	position: absolute;
 	bottom: 0;
 	width: 100%;
