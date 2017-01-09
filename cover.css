@@ -176,7 +176,10 @@ body {
 }
 
 
-
+.container{
+	width: 40%;
+	padding-left: 6.666%;
+}
 /*
  * Footer
  */
