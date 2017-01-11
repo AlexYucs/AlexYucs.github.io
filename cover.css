@@ -43,6 +43,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+	font: Arial, Helvetica, sans-serif;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -62,20 +63,21 @@ li a:hover {
 
 html,
 body {
-  position: absolute;
-  height: 100%;
-  width : 100%;
-  margin:0;
-  background: url(/bg3.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	font: Arial, Helvetica, sans-serif;
+	position: absolute;
+	height: 100%;
+	width : 100%;
+	margin:0;
+	background: url(/bg3.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 body {
-  color: #464646;
-  text-align: center;
-  text-shadow: 0 1px 3px rgba(70,70,70,.5);
+	color: #464646;
+	text-align: center;
+	text-shadow: 0 1px 3px rgba(70,70,70,.5);
 }
 
 
