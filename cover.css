@@ -217,9 +217,6 @@ h4{
  * Affix and center
  */
 @media (min-width: 768px) {
-	li {
-		width:25%;
-	}
 	/* Start the vertical centering */
 	.site-wrapper-inner {
 		vertical-align: middle;
@@ -232,9 +229,6 @@ h4{
 }
 
 @media (min-width: 992px) {
-	li {
-		width:25%;
-	}
 	.cover-container {
 		width: 700px;
 	}
